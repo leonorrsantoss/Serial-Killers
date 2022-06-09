@@ -25,3 +25,19 @@ De onde vêm os dados? WIKIPEDIA
   
   
 Contexto sócio histórico
+
+#Contexto
+
+Este conjunto de dados contém uma lista com dados sobre 34 dos serial killers mais periogosos e com mais crimes cometidos na história da humanidade.
+Highest_victim_count.csv contém o Nome, País, Anos ativos, vítimas comprovadas, possíveis vítimas e Resumo dos crimes cometidos por estes serial killers.
+
+#Bibliografia
+
+Este conjunto de dados é retirado do kaggle (https://www.kaggle.com/datasets/vesuvius13/serial-killers-dataset), cujos dados foram retirados da WIKIPEDIA.
+
+#Estrutura
+
+#API's usados - novas técnicas
+
+#Dicionário de dados
+

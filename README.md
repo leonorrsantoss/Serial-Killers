@@ -28,8 +28,8 @@ Contexto sócio histórico
 
 # Contexto
 
-Este conjunto de dados contém uma lista com dados sobre 34 dos serial killers mais periogosos e com mais crimes cometidos na história da humanidade desde 1990.
-Highest_victim_count.csv contém o contém dados (Name, Country, Active years, Proven victims, Possible victims, Notes) sobre os 34 serial killers com maior número de assassinatos no mundo desde 1990. e Resumo dos crimes cometidos por estes serial killers.
+Este conjunto de dados contém uma lista com dados sobre 34 dos serial killers mais periogosos e com **mais crimes cometidos na história da humanidade** desde 1990.
+Contém dados **(Name, Country, Active years, Proven victims, Possible victims, Notes)** sobre estes serial killers.
 
 # Bibliografia
 

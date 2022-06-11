@@ -6,7 +6,7 @@
   
 **A fonte é confiável?** Sim, contudo, como apresenta datas e detalhes de crimes bastante antigos, não temos certeza absoluta que estejam corretos. 
   
-**Há alguma outra consideração que tiveram em consideração ao “recolher” estes dados?** .............
+**Há alguma outra consideração que tiveram em consideração ao “recolher” estes dados?** Fizemos uma breve pesquisa sobre o tema e sobre alguns dos assassinos.
   
   
 ### “Limpeza” dos dados
@@ -19,7 +19,7 @@
   
 **Há algum problema de tipo de dados (por exemplo, palavras em campos que deveriam ser numéricos, datas, horas…)?** Sim, na coluna das datas em que os assassinos cometeram os crimes. A maior parte deles, são representados da seguinte forma:"x to y".
   
-**Como serão corrigidos?** .......
+**Como serão corrigidos?** No notebook, tentámos dividir essa coluna em duas, de forma a conseguir utilizar os dados numéricos.
   
 **Precisam de rejeitar algum dado?** Não.
   

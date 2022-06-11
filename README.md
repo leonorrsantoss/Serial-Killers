@@ -24,7 +24,6 @@
 **Precisam de rejeitar algum dado?** Não.
   
   
-### Contexto sócio histórico
 
 
 

@@ -17,11 +17,11 @@
   
 **Quais são os campos mais relevantes para os objetivos do projeto?** O nome dos assassinos e as suas vítimas comprovadas ('Name', 'Proven Victims')
   
-**Há algum problema de tipo de dados (por exemplo, palavras em campos que deveriam ser numéricos, datas, horas…)?** Sim, na coluna das datas em que os assassinos cometeram os crimes existem palavras em campos que deviam ser numéricos. A maior parte deles, são representados da seguinte forma:"x to y".
+**Há algum problema de tipo de dados (por exemplo, palavras em campos que deveriam ser numéricos, datas, horas…)?** Sim, na coluna ('Years Active') das datas em que os assassinos cometeram os crimes existem palavras em campos que deviam ser numéricos. A maior parte deles, são representados da seguinte forma:"x to y".
   
 **Como serão corrigidos?** No notebook, tentámos dividir essa coluna em duas, de forma a conseguir utilizar os dados numéricos. Posteriormente, eliminámos a coluna de dados original.
   
-**Precisam de rejeitar algum dado?** Não.
+**Precisam de rejeitar algum dado?** A coluna original ('Years Active'), como mencionado acima.
   
   
 

@@ -42,7 +42,6 @@ Este conjunto de dados é retirado do Dados extraídos do [KAGGLE](https://www.k
 
 [Highest_victim_count.csv](https://github.com/leonorrsantoss/Serial-Killers/files/8900043/Highest_victim_count.csv)
 
-## API's usados - novas técnicas
 
 ## Dicionário de dados
 

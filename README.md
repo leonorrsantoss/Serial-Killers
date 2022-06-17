@@ -45,4 +45,20 @@ Este conjunto de dados é retirado do Dados extraídos do [KAGGLE](https://www.k
 
 ## Dicionário de dados
 
-
+| Nome | Significado |
+| --- | --- |
+| res | Divisão da coluna 'Years Active' |
+| ultima_linha | Última linha dos dados |
+| details | Todos os dados das colunas: 'Name', 'Year begin', 'Years end','Proven victims', 'Possible victims' |
+| modus_operandi | O nome dos assassinos e as 'Notes' (informações sobre o modo de operar nos seus crimes) |
+| mean_provictims | A média dos valores das 'Proven Victims? |
+| paisassassinos | O número de assassinos em cada país |
+| killersbrazil | Todos os assassinos de um país |
+| brazil | Todos os assassinos do Brasil |
+| killersEUA | Todos os assassinos de um país |
+| EUA | Todos os assassinos dos EUA |
+| list_countries | Todos os elementos da coluna 'Country' |
+| num_countries | Número de países, no total |
+| media | Média de 'Proven Victims' |
+| mediana | Mediana de 'Proven Victims' |
+| diff | Diferença entre a média e mediana de 'Proven Victims' |

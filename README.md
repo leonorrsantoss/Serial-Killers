@@ -47,3 +47,4 @@ Este conjunto de dados é retirado do Dados extraídos do [KAGGLE](https://www.k
 
 [Dicionário de Dados.csv](https://github.com/leonorrsantoss/Serial-Killers/files/8900131/Dicionario.de.Dados.csv)
 
+[Dicionário de Dados.xlsx](https://github.com/leonorrsantoss/Serial-Killers/files/8929007/Dicionario.de.Dados.xlsx)
